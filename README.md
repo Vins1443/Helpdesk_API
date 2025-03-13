@@ -4,7 +4,6 @@
 A simple REST API for managing helpdesk tickets using **FastAPI** and **SQLite**. Supports **CRUD operations** (Create, Read, Update, Delete).  
 
 ---
-
 ## 🛠 Installation  
 
 1️⃣ **Clone the Repository**  
