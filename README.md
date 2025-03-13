@@ -9,7 +9,7 @@ A simple REST API for managing helpdesk tickets using **FastAPI** and **SQLite**
 
 1️⃣ **Clone the Repository**  
 ```cmd
-git clone https://github.com/yourusername/helpdesk-api.git
+git clone https://github.com/Vins1443/Helpdesk_API.git
 cd helpdesk-api
 ```
 
